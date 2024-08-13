@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Tienda_APPWEB.Models.Inventario_Entrada>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@* <h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p> *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Producto
+            </th>
+            <th>
+                Cantidad
+            </th>
+            <th>
+                Fecha
+            </th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreProducto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @{var fechanN = item.Fecha.ToString("dd/MM/yyyy");}
+                @fechanN
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idInventario_Entrada">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.idInventario_Entrada">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.idInventario_Entrada">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Tienda_APPWEB.Models.Producto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@* <h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p> *@
+
+<!DOCTYPE html>
+    <div class="container mt-4">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="assets/@item.Imagen" class="card-img-top" alt="...">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">@item.Nombre</h5>
+                            <p class="card-text">Precio: @item.Precio</p>
+                            <p class="card-text">Marca: @item.Marca_D y Talla: @item.Talla_D</p>
+                            <a href="#" class="btn btn-primary">Comprar</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>

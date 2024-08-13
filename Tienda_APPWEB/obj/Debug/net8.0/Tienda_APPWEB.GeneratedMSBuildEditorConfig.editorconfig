@@ -1,0 +1,219 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tienda_APPWEB
+build_property.RootNamespace = Tienda_APPWEB
+build_property.ProjectDir = D:\Respaldo\Universidad\Cuatri #11\Mantenimiento e implementacion\Proyecto\carlos final\Tienda_APPWEB\Tienda_APPWEB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Respaldo\Universidad\Cuatri #11\Mantenimiento e implementacion\Proyecto\carlos final\Tienda_APPWEB\Tienda_APPWEB
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/FacturasxCobrars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXN4Q29icmFyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/FacturasxCobrars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXN4Q29icmFyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/FacturasxCobrars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXN4Q29icmFyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/FacturasxCobrars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXN4Q29icmFyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/FacturasxCobrars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXN4Q29icmFyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Facturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Facturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Facturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Facturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Facturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Inventario_Entrada/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb19FbnRyYWRhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Inventario_Entrada/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb19FbnRyYWRhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Inventario_Entrada/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb19FbnRyYWRhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Inventario_Entrada/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb19FbnRyYWRhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Inventario_Entrada/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb19FbnRyYWRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Inventario_Salida/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb19TYWxpZGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Inventario_Salida/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb19TYWxpZGFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Inventario_Salida/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb19TYWxpZGFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Inventario_Salida/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb19TYWxpZGFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Inventario_Salida/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb19TYWxpZGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Marcas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Marcas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Marcas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Marcas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Marcas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Producto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Producto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Producto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Producto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Respaldo/Universidad/Cuatri \#11/Mantenimiento e implementacion/Proyecto/carlos final/Tienda_APPWEB/Tienda_APPWEB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2gdmvwqoxv

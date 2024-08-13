@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\inventario_salida\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\inventario_salida\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\controllers\\inventario_salidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\controllers\\inventario_salidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\controllers\\facturasxcobrarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\controllers\\facturasxcobrarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\models\\inventario_salida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\models\\inventario_salida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\facturasxcobrars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\facturasxcobrars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\models\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\models\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\models\\facturasxcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\models\\facturasxcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\data\\tienda_appwebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\data\\tienda_appwebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\inventario_entrada\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\inventario_entrada\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\facturasxcobrars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\facturasxcobrars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\facturasxcobrars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\facturasxcobrars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\facturasxcobrars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\facturasxcobrars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|d:\\respaldo\\universidad\\cuatri #11\\mantenimiento e implementacion\\proyecto\\carlos final\\tienda_appweb\\tienda_appweb\\views\\facturasxcobrars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9F64552-6574-4D8D-9A03-619291AC02B5}|Tienda_APPWEB\\Tienda_APPWEB.csproj|solutionrelative:tienda_appweb\\views\\facturasxcobrars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAmwH4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T01:55:07.643Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvx4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:41:34.039Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T05:04:11.667Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Models\\Producto.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Models\\Producto.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Models\\Producto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:09:53.087Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Facturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\Facturas\\Index.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Facturas\\Index.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\Facturas\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T01:53:18.095Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Models\\Facturas.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Models\\Facturas.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Models\\Facturas.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Models\\Facturas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T01:48:19.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\FacturasxCobrars\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\FacturasxCobrars\\Index.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\FacturasxCobrars\\Index.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\FacturasxCobrars\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T06:32:40.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tienda_APPWEBContext.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Data\\Tienda_APPWEBContext.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Data\\Tienda_APPWEBContext.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Data\\Tienda_APPWEBContext.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Data\\Tienda_APPWEBContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:05:01.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Tienda_APPWEB\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-08T06:30:54.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAAsBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:59:09.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\appsettings.json",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\appsettings.json",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\appsettings.json",
+              "RelativeToolTip": "Tienda_APPWEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T20:59:55.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Inventario_Entrada\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\Inventario_Entrada\\Index.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Inventario_Entrada\\Index.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\Inventario_Entrada\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T02:15:06.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Inventario_Salida\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\Inventario_Salida\\Index.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Inventario_Salida\\Index.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\Inventario_Salida\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvysAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T02:15:25.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inventario_Salida.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Models\\Inventario_Salida.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Models\\Inventario_Salida.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Models\\Inventario_Salida.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Models\\Inventario_Salida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:52:56.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventario_SalidaController.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\Inventario_SalidaController.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Controllers\\Inventario_SalidaController.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\Inventario_SalidaController.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Controllers\\Inventario_SalidaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:53:22.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T21:05:07.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwCUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:12:53.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\FacturasxCobrars\\Create.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\FacturasxCobrars\\Create.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\FacturasxCobrars\\Create.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\FacturasxCobrars\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T06:39:28.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\FacturasxCobrars\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\FacturasxCobrars\\Delete.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\FacturasxCobrars\\Delete.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\FacturasxCobrars\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T06:39:35.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacturasxCobrarsController.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\FacturasxCobrarsController.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Controllers\\FacturasxCobrarsController.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\FacturasxCobrarsController.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Controllers\\FacturasxCobrarsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:33:06.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\FacturasxCobrars\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\FacturasxCobrars\\Edit.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\FacturasxCobrars\\Edit.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\FacturasxCobrars\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T06:39:48.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\FacturasxCobrars\\Details.cshtml",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Views\\FacturasxCobrars\\Details.cshtml",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Views\\FacturasxCobrars\\Details.cshtml",
+              "RelativeToolTip": "Tienda_APPWEB\\Views\\FacturasxCobrars\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T06:39:56.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FacturasxCobrar.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Models\\FacturasxCobrar.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Models\\FacturasxCobrar.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Models\\FacturasxCobrar.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Models\\FacturasxCobrar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:32:32.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Controllers\\FacturasController.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Controllers\\FacturasController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:27:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Program.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Program.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Program.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:08:34.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Tienda_APPWEB\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Respaldo\\Universidad\\Cuatri #11\\Mantenimiento e implementacion\\Proyecto\\carlos final\\Tienda_APPWEB\\Tienda_APPWEB\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Tienda_APPWEB\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:41:51.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

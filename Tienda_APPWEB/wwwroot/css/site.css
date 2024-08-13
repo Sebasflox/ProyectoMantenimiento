@@ -1,0 +1,385 @@
+:root {
+    --main-bg-color: #F2F2E9;
+    --dark-color: #25261D;
+    --accent-color1: #F2A649;
+    --accent-color2: #8C6542;
+    --accent-color3: #D95A4E;
+    --text-color: #25261D;
+    --light-text-color: #F2F2E9;
+    --border-color: #8C6542;
+    --box-bg-color: #FFFFFF;
+}
+
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+a {
+    color: var(--accent-color2) !important  ;
+    text-decoration:none !important;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+.modal-header {
+    background-color: var(--accent-color1) !important;
+    color: var(--light-text-color) !important;
+}
+
+
+
+body {
+    /*  margin-bottom: 60px;*/
+    min-height: 100vh;
+    /*overflow: hidden;*/
+    background-color: var(--main-bg-color) !important;
+}
+.loginDiv {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    background: gray;
+    padding: 35px;
+    width: 30%;
+    
+
+    button{
+            width: 100%;
+          }
+    input{
+            margin-bottom: 30px;
+         }
+    form {
+        margin: auto;
+        margin-top: 20px;
+        }
+}
+
+
+.registrar_asistencia {
+    PADDING: 30PX;
+    FONT-SIZE: 30PX;
+    margin-top: 10px;
+}
+
+.asistencia_btn {
+    DISPLAY: inline-grid;
+}
+
+body>.container{
+    max-width: 100% !important;
+    min-height: calc(100vh - 160px);
+}
+
+body>.container main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+
+}
+
+
+
+.row:has(form){
+    WIDTH: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+header{
+    height: 80px;
+}
+
+
+
+.Icons {
+    display: flex;
+    align-items: center;
+
+}
+
+.iconos {
+    list-style-type: none;
+    margin: 0;
+    
+}
+
+.dropdown-menu.dropdown-Notificacion.show{
+    left: -200px;
+}
+
+.btn btn-primary {
+
+}
+
+.tablas {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.table th {
+    background-color: rgb(123, 22, 32) !important;
+    color: white;
+    text-align: center !important;
+}
+
+.table td {
+    background-color: var(--box-bg-color) !important
+}
+
+.generar {
+    padding: 5px 20px;
+    background-color: var(--accent-color1) !important;
+    color: var(--dark-color) !important;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold !important;
+}
+
+.Volver {
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: var(--accent-color1) !important;
+    color: var(--dark-color) !important;
+    font-weight: bold !important;
+}
+
+.btnTable{
+    align-content: center;
+}
+
+    .generar:hover {
+        background-color: #45a049;
+    }
+
+    .generar:active {
+        background-color: #3e8e41;
+    }
+
+.btnPDF {
+    width: 160px;
+    padding: 10px 20px;
+    background-color: #f94545;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+    .btnPDF:hover {
+        background-color: #45a049;
+    }
+
+    .btnPDF:active {
+        background-color: #3e8e41;
+    }
+
+.generarPdfd {
+    width: 51%;
+    padding: 10px;
+    height: 30%;
+    display: flex;
+    justify-content: flex-end
+}
+
+
+
+.loginDiv {
+    background-color: #7b1620;
+    text-align: center;
+    border-radius: 20px;
+    img{
+          width:30%;
+          border-radius:50%;
+       
+       }
+
+       
+        
+       
+}
+
+
+form{
+    
+    input
+{
+    background-color: var(--main-bg-color) !important;
+    border: solid var(--accent-color2) 1px;
+    color: var(--text-color);
+}
+button,input[type=button] {
+    background-color: var(--accent-color1) !important;
+    color: var(--dark-color) !important;
+    font-weight: bold !important;
+}
+}
+
+nav.navbar {
+    background-color: #7b1620 !important;
+    padding: 0;
+    a
+    {
+        color: var(--light-text-color) !important;
+    }
+.dropdown-menu {
+    background-color: var(--accent-color2) !important;
+}
+.navbar-brand {
+    height: 70px;
+    img
+        {
+            border-radius: 50%;
+            height: 100%;
+            vertical-align: unset;
+            box-sizing: unset;
+        }
+
+    }
+}
+form:not(#loginForm) {
+    background-color: var(--box-bg-color);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px var(--box-shadow-color);
+    padding: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    color: var(--text-color);
+    padding: 10px;
+    fieldset
+
+{
+    padding: 10px
+}
+
+input:not([type="button"]):not([type="submit"]) {
+    margin-bottom: 10px;
+    background-color: var(--box-bg-color) !important;
+}
+
+input[type=text], input[type=number] {
+    border: none;
+    border-bottom: 2px solid #80808087;
+    border-radius: unset;
+}
+
+input[type="button"], input[type="submit"] {
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px
+}
+
+input[type="button"], input[type="submit"] {
+    background-color: var(--accent-color1) !important;
+    color: var(--text-color);
+    font-weight: bold !important;
+}
+
+    input[type="button"].secondary {
+        background-color: var(--accent-color3) !important;
+        color: var(--light-text-color) !important;
+    }
+
+}
+.footer {
+    /*position: absolute;
+    bottom: 0%;*/
+    height: 80px;
+    width: 100%;
+    line-height: 60px;
+    background-color: var(--dark-color);
+    color: var(--light-text-color);
+}
+h1, h2, h3, h4, h5, h6 {
+    color: var(--text-color);
+}
+
+.close {
+    background-color: var(--accent-color3) !important;
+    color: var(--light-text-color) !important;
+}
+
+.buttons-pdf {
+    background-color: var(--accent-color3) !important;
+    color: var(--light-text-color) !important;
+}
+
+.stepsForm {
+    position: relative;
+    overflow: hidden;
+    h2{
+          text-align:center
+      }
+    fieldset{
+        position: absolute;
+        width: 100%;
+        left: 0;
+    }
+    #bar{
+        display: flex;
+        padding:0;
+        margin:0;
+        justify-content: space-between;
+        li{
+            list-style-type: none;
+            display:grid;
+            text-align:center
+
+          }
+          i{
+              font-size:40px;
+                       
+          }
+        li.done {
+            color:#8c6542;
+        }
+
+    }
+.buttons{
+    position:relative
+}
+.previous{
+    position:absolute;
+    left:0
+}
+.next,.submit{
+    position:absolute;
+    right:0;
+}
+}
+
+button {
+    background-color: var(--accent-color1);
+    color: var(--text-color);
+}
+button.secondary {
+    background-color: var(--accent-color3);
+    color: var(--light-text-color);
+}
+.select2-container{
+    width:100% !important;
+}
+
+
+.btn-primary {
+    color: #fff !important;
+    background-color: #bb4040 !important;
+}
+
+

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Tienda_APPWEB.Models.Inventario_Salida>
+
+@{
+    ViewData["Title"] = "Index";
+    var estado = "a";
+}
+
+@* <h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p> *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Producto
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Activo)
+            </th>
+            <th>
+                Acciones
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreProducto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @{var fecha = item.Fecha.ToString("dd/MM/yyyy");}
+                @fecha
+            </td>
+            <td>
+                    @if (item.Activo)
+                    {
+                        estado = "Activa";   
+                    }
+                    else
+                    {
+                        estado = "Inactiva";
+                    }
+                    @estado
+                </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.idInventario_Salida">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.idInventario_Salida">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.idInventario_Salida">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

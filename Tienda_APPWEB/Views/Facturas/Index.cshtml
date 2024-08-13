@@ -1,0 +1,77 @@
+﻿@model IEnumerable<Tienda_APPWEB.Models.Facturas>
+
+@{
+    ViewData["Title"] = "Index";
+    var estrado = "a";
+}
+
+@* <h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p> *@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Cliente
+            </th>
+            <th>
+                Producto
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th>
+                Estado
+            </th>
+            <th>
+                Acciones
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreProducto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                @{var fecha = item.Fecha.ToString("dd/MM/yyyy");}
+                @fecha
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                    @if (item.Activo)
+                    {
+                        estrado = "Activa";
+                    }
+                    else
+                    {
+                        estrado = "Inactiva";
+                    }
+                    @estrado
+                </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idFactura">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.idFactura">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.idFactura">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
